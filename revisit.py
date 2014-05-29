@@ -3,6 +3,6 @@
 def prange(n):
     for i in range(n):
         print i
-        print "hello"
+        print "hello world"
 
 prange(10)
